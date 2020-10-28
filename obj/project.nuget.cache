@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mfNnQInRekmZrpipod1mAOmjZdcTocMCOvhn3OpStBeQ+Hu62dEAvZG+ebL5jNswwahos0ZYt/ZF1Egw6A7DqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vimal\\Desktop\\Stage 4\\Dockersampleconfig\\Dockersampleconfig.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vimal\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
