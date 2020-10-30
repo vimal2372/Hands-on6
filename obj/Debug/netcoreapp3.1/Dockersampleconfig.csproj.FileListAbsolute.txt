@@ -7,3 +7,15 @@ C:\Users\vimal\Desktop\Stage 4\Dockersampleconfig\obj\Debug\netcoreapp3.1\Docker
 C:\Users\vimal\Desktop\Stage 4\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconfig.RazorTargetAssemblyInfo.cache
 C:\Users\vimal\Desktop\Stage 4\Dockersampleconfig\obj\Debug\netcoreapp3.1\staticwebassets\Dockersampleconfig.StaticWebAssets.Manifest.cache
 C:\Users\vimal\Desktop\Stage 4\Dockersampleconfig\obj\Debug\netcoreapp3.1\staticwebassets\Dockersampleconfig.StaticWebAssets.xml
+C:\Users\vimal\Desktop\Stage 4\Dockersampleconfig\bin\Debug\netcoreapp3.1\Dockersampleconfig.exe
+C:\Users\vimal\Desktop\Stage 4\Dockersampleconfig\bin\Debug\netcoreapp3.1\DockerSampleConfig.yaml
+C:\Users\vimal\Desktop\Stage 4\Dockersampleconfig\bin\Debug\netcoreapp3.1\Dockersampleconfig.deps.json
+C:\Users\vimal\Desktop\Stage 4\Dockersampleconfig\bin\Debug\netcoreapp3.1\Dockersampleconfig.runtimeconfig.json
+C:\Users\vimal\Desktop\Stage 4\Dockersampleconfig\bin\Debug\netcoreapp3.1\Dockersampleconfig.runtimeconfig.dev.json
+C:\Users\vimal\Desktop\Stage 4\Dockersampleconfig\bin\Debug\netcoreapp3.1\Dockersampleconfig.dll
+C:\Users\vimal\Desktop\Stage 4\Dockersampleconfig\bin\Debug\netcoreapp3.1\Dockersampleconfig.pdb
+C:\Users\vimal\Desktop\Stage 4\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconfig.csproj.CoreCompileInputs.cache
+C:\Users\vimal\Desktop\Stage 4\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconfig.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vimal\Desktop\Stage 4\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconfig.dll
+C:\Users\vimal\Desktop\Stage 4\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconfig.pdb
+C:\Users\vimal\Desktop\Stage 4\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconfig.genruntimeconfig.cache

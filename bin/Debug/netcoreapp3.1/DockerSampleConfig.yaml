@@ -13,12 +13,12 @@ spec:
         app: Dockersampleconfig
     spec:
       containers:
-      - name: practicecheckrepos
-        image: samplecr7.azurecr.io/practicecheckrepos:latest
+      - name: dockersamplerepos
+        image: samplecr.azurecr.io/dockersamplerepos:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
-      - name: dsconfigsn2
+      - name: dsconfigsn
 
 ---
 apiVersion: v1
